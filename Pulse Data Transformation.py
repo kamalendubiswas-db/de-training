@@ -9,13 +9,14 @@
 # COMMAND ----------
 
 # DBTITLE 1,Setup Variables
-# input your repo path
-source_repo_path = "/Workspace/Repos/odl_instructor_1280678@databrickslabs.com/de-training/DE Training Pulse Check (Responses) - Form Responses 1.csv"
+# input your details
+username = f"odl_instructor_1280678@databrickslabs.com"
+user_prefix = f"kb"
 
-# input your catalog name
-my_catalog = "kb_utrecht_training"
-my_volume = "pulse_check"
-
+# Setup all required paths
+source_repo_path = f"/Workspace/Repos/{username}/de-training/DE Training Pulse Check (Responses) - Form Responses 1.csv"
+my_catalog = f"{user_prefix}_utrecht_training"
+my_volume = f"pulse_check"
 target_file_path = f"/Volumes/{my_catalog}/bronze/{my_volume}/pulse_data.csv"
 
 # COMMAND ----------
