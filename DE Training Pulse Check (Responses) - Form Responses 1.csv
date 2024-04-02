@@ -1,0 +1,10 @@
+Timestamp,What is your current role?,"Do you prefer to do hands-on session or more of theory with Q&A?
+Note: With hands-on session, we might not be able to cover all topics",How familiar are you with Databricks?,"Exercise:
+The most interesting city that you have visited and rate it as per scale of 1 to 5.
+
+1: Lowest
+5: Highest
+
+Sample response: Amsterdam - 5"
+4/2/2024 13:50:50,Data Engineer,Hands-on session,"Familiar with Unity Catalog, Delta Live Table and Databricks SQL",Amsterdam - 5
+4/2/2024 13:51:54,Data Architect,Theory with Q&A,Not familiar with the Databricks,Paris - 2
