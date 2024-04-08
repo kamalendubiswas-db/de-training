@@ -8,6 +8,7 @@
 
 # COMMAND ----------
 
+
 # DBTITLE 1,Setup Variables
 # input your details
 username = f"odl_instructor_1280678@databrickslabs.com"
