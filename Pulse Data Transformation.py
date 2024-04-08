@@ -69,7 +69,7 @@ bronze_df.write.mode("overwrite").saveAsTable(f"{my_catalog}.bronze.raw_pulse_da
 # DBTITLE 1,Create Silver Table
 from pyspark.sql.functions import split
 
-silver_df = spark.read.table("kb_utrecht_training.bronze.raw_pulse_data")
+silver_df = spark.read.table(f"{my_catalog}.bronze.raw_pulse_data")
 
 # Split the 'favorite_city' column into two parts: 'city' and 'rating'
 # The split function uses a regex pattern that looks for a hyphen possibly surrounded by spaces
