@@ -1,0 +1,43 @@
+Timestamp,What is your current role?,"Do you prefer to do hands-on session or more of theory with Q&A?
+Note: With hands-on session, we might not be able to cover all topics",How familiar are you with Databricks?,"Exercise:
+The most interesting city that you have visited and rate it as per scale of 1 to 5.
+
+1: Lowest
+5: Highest
+
+Sample response: Brussels - 5"
+4/16/2024 13:22:46,Data Architect,Hands-on session,Not familiar with the Databricks,Brussel 5
+4/16/2024 13:22:56,Data Engineer,Hands-on session,"Familiar with Unity Catalog, Delta Live Table and Databricks SQL",3
+4/16/2024 13:23:04,Data Engineer,Hands-on session,Limited usage with basics of Spark, Brussels - 4
+4/16/2024 13:23:06,Data Engineer,Theory with Q&A,"Familiar with Unity Catalog, Delta Live Table and Databricks SQL",4
+4/16/2024 13:23:33,Data Scientist,Hands-on session,Not familiar with the Databricks,Amsterdam - 5
+4/16/2024 13:23:33,Data Analyst,Hands-on session,Not familiar with the Databricks,Vilvoorde - 5
+4/16/2024 13:23:35,BI Engineer/Developer,Hands-on session,Not familiar with the Databricks,Barcelone -4.5
+4/16/2024 13:23:37,BI Engineer/Developer,Hands-on session,Not familiar with the Databricks,Rapa Nui - 5 
+4/16/2024 13:23:39,Data Engineer,Hands-on session,"Familiar with Unity Catalog, Delta Live Table and Databricks SQL",New York - 4
+4/16/2024 13:23:45,Data Engineer,Hands-on session,Not familiar with the Databricks,Levi 5
+4/16/2024 13:23:49,Data Engineer,Hands-on session,Limited usage with basics of Spark,Valencia - 5
+4/16/2024 13:23:50,Data Analyst,Theory with Q&A,Not familiar with the Databricks,Rome - 5
+4/16/2024 13:23:51,Data Analyst,Hands-on session,Not familiar with the Databricks,Rome-5 Torshavn-1
+4/16/2024 13:23:53,BI Engineer/Developer,Hands-on session,Not familiar with the Databricks,Athènes 4
+4/16/2024 13:23:57,Data Engineer,Hands-on session,Limited usage with basics of Spark,Wuxi 5
+4/16/2024 13:23:58,Data Engineer,Theory with Q&A,I can setup production ready Databricks workspaces,Sevilla - 5
+4/16/2024 13:24:11,Enterprise architect,Theory with Q&A,Not familiar with the Databricks,Brussels - 5
+4/16/2024 13:24:14,Data Engineer,Hands-on session,Not familiar with the Databricks,Rome - 5
+4/16/2024 13:24:21,Data Management,Hands-on session,Not familiar with the Databricks,5
+4/16/2024 13:24:25,Data Engineer,Hands-on session,Not familiar with the Databricks,Buda Pest - 5
+4/16/2024 13:24:31,Data Engineer,Hands-on session,Limited usage with basics of Spark,Sevilla - 5
+4/16/2024 13:24:32,Data Engineer,Hands-on session,Limited usage with basics of Spark,Kuala Lumpur - 5
+4/16/2024 13:24:40,Data Engineer,Hands-on session,Not familiar with the Databricks,Brussels - 5
+4/16/2024 13:24:57,Data Analyst,Hands-on session,Limited usage with basics of Spark,Vancouver - 4
+4/16/2024 13:24:59,Enterprise architect ,Theory with Q&A,Not familiar with the Databricks,4: Barcelona 
+4/16/2024 13:25:13,Data Scientist,Hands-on session,Limited usage with basics of Spark,Brugge 5
+4/16/2024 13:25:29,Data Scientist,Hands-on session,Limited usage with basics of Spark,Istanbul - 2
+4/16/2024 13:25:45,Data Engineer,Hands-on session,Not familiar with the Databricks,Brussels - 5
+4/16/2024 13:25:48,Data Engineer,Hands-on session,"Familiar with Unity Catalog, Delta Live Table and Databricks SQL",Heule - 5
+4/16/2024 13:26:15,Data Engineer,Hands-on session,Not familiar with the Databricks,Wechel - 4
+4/16/2024 13:26:25,Data Engineer,Hands-on session,Not familiar with the Databricks,Brussel - 5
+4/16/2024 13:26:35,Data Engineer,Hands-on session,"Familiar with Unity Catalog, Delta Live Table and Databricks SQL",Antwerp - Over 9000
+4/16/2024 13:27:01,Data Engineer,Theory with Q&A,"Familiar with Unity Catalog, Delta Live Table and Databricks SQL",Ghent - 4
+4/16/2024 13:27:47,Data Engineer,Hands-on session,Limited usage with basics of Spark,kuala Lumpur - 5
+4/16/2024 13:31:58,Data Architect,Hands-on session,Not familiar with the Databricks,Brugge - 5
