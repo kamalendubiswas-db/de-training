@@ -1,2 +1,2 @@
 # Sample Repo
-##  Copy the DE Training Response
+## DE Training Response
